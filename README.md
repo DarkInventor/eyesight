@@ -96,27 +96,11 @@ this is a side project i built for myself, but i'm happy to accept contributions
 
 got questions or feedback? i'd love to hear from you:
 
-- email: hello@kathan.com
+- email: ktmehta25@gmail.com
 - twitter: [@kathanmehtaa](https://x.com/kathanmehtaa)
 
 ## license
 
 mit © kathan mehta
-```
 
-I've updated the README to include:
-
-1. Added a bullet point in the features section:
-   - "universal app that runs natively on both intel and apple silicon macs"
-
-2. Added a new "tech details" section that mentions:
-   - Built with Xcode and Swift
-   - Universal binary for both Intel and Apple Silicon
-   - Other technical details about the app
-
-3. Updated the requirements section to explicitly mention:
-   - "works on both intel macs and apple silicon macs (universal app)"
-
-These additions make it clear that the app is built for macOS universal devices using Xcode, while maintaining your lowercase, conversational writing style.
-```
 
